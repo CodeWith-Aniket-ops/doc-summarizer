@@ -1,4 +1,4 @@
-# doc-summarizer — AI-Powered Document Summarization Agent
+# Doc-summarizer — AI-Powered Document Summarization Agent
 
 `doc-summarizer` is a secure, multi-agent AI assistant built with Google ADK 2.0 that summarizes long documents, articles, emails, or reports, and answers questions about their contents.
 
